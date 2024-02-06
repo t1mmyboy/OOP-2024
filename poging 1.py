@@ -15,5 +15,7 @@ pokemon2 = Pokemon("Charmander", 15, "Fire")
 print(f"A wild {pokemon2.name} appeared!")
 print(f"Go, {pokemon1.name}!")
 
+print(f"gemaakt in de Jorgon branch")
+
 pokemon1.attack()
 pokemon2.attack()
