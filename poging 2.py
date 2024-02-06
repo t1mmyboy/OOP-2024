@@ -34,4 +34,4 @@ while repeat == True:
         print("bye!")
         exit()
     else:
-        Repeat = True
+        repeat = True
