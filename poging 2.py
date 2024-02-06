@@ -1,3 +1,22 @@
+name = "charmander"
+class charmander :
+    type = ""
+    zwakte = ""
+    naam = ""
+
+
+
+def __init__ (self, type, zwakte, naam):
+    self.type = "fire"
+    self.zwakte = "water"
+    self.naam = name    
+
+
+
+
+
+
+
 repeat = True
 #The player start the game.
 print("Welcome tot de wereld van pokemon!")
